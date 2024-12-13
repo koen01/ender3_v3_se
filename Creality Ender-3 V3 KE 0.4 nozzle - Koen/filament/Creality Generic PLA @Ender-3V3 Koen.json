@@ -1,0 +1,13 @@
+{
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA @Ender-3V3 Koen"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA @Ender-3V3 Koen",
+    "version": "2.2.0.4"
+}
